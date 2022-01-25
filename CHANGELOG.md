@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/googleapis/python-apigee-connect/compare/v1.2.1...v1.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#79](https://github.com/googleapis/python-apigee-connect/issues/79)) ([ae944c1](https://github.com/googleapis/python-apigee-connect/commit/ae944c10b2f63a682cf2f196d2122ccbed2dac48))
+
 ### [1.2.1](https://www.github.com/googleapis/python-apigee-connect/compare/v1.2.0...v1.2.1) (2021-11-01)
 
 
